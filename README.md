@@ -7,7 +7,7 @@ O Zearch Web permite que modelos de IA realizem buscas na web para obter **infor
 
 ### 🚀 Teste Grátis
 
-Acesse o site para testar o Zearch Web e gerar sua API:
+Acesse o site para testar o Zearch Web:
 
 👉 [https://zearchweb.netlify.app/](https://zearchweb.netlify.app/)
 
